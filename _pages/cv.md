@@ -1,64 +1,87 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+[Download full CV (PDF)](/files/cv.pdf){: .btn .btn--primary}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Ph.D., Economics** — University Name &nbsp; *(expected [year])*  
+Dissertation: *"Dissertation Title"*  
+Advisors: Professor A, Professor B
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**B.A., Economics & Mathematics** — Undergraduate Institution &nbsp; *(Year)*  
+[Honors / Distinction / Awards if any]
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Research Fields
+
+Primary: Political Economy, Behavioral Economics  
+Secondary: [Secondary fields]
+
+---
+
+## Working Papers
+
+See the [Research](/research/) page for the full list with abstracts.
+
+---
+
+## Publications
+
+- **[Title of Published Paper](/files/paper3.pdf)** (with Co-Author) — *Journal Name*, Year
+
+---
+
+## Fellowships & Awards
+
+| Year | Award |
+|------|-------|
+| 2024 | Fellowship or Award Name, Institution |
+| 2023 | Fellowship or Award Name, Institution |
+| 2022 | Prize or Grant Name |
+
+---
+
+## Academic Experience
+
+**Research Assistant** — Professor Name, University Name &nbsp; *(Year–Year)*
+
+**Visiting Fellow** — Research Institution &nbsp; *(Year–Year)*
+
+---
+
+## Teaching Experience
+
+See the [Teaching](/teaching/) page for full details.
+
+---
+
+## Conference Presentations
+
+- Conference Name, City, Year
+- Conference Name, City, Year
+
+---
+
+## Referee Service
+
+Journal A, Journal B, Journal C
+
+---
+
+## Skills
+
+- **Software:** R, Stata, Python, LaTeX
+- **Languages:** English (native), [Other language] ([level])
+
+---
+
+## References
+
+Available upon request. References page included in full CV.
