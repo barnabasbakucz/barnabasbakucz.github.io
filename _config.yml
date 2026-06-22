@@ -3,26 +3,23 @@
 # ==============================================================
 
 title                  : "Barnabás Bakucz"
-description            : "PhD Candidate in Economics at University Name"
+description            : "PhD Candidate in Economics"
 url                    : "https://barnabasbakucz.github.io"
 baseurl                : ""
 
 # --- Author / Profile -----------------------------------------------------------
 author:
-  name        : "Your Full Name"
+  name        : "Barnabás Bakucz"
   avatar      : "/images/profile.jpg"          # add your photo here
   bio         : >
-    I am a PhD Candidate in Economics at University Name.
-    My research focuses on political and behavioral economics,
-    with particular interests in [your topics].
-    I am on the job market in [year].
-  location    : "City, Country"
-  employer    : "University Name"
+    Ph.D. Candidate in Economics.
+  location    : "Bergen, Norway"
+  employer    : "FAIR, Norwegian School of Economics"
 
   # Social links — leave blank ("") to hide
-  email       : "yourname@university.edu"
-  github      : "yourgithubusername"
-  googlescholar: "https://scholar.google.com/citations?user=YOURID"
+  email       : ""
+  github      : ""
+  googlescholar: ""
   twitter     : ""
   linkedin    : ""
 
