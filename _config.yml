@@ -16,18 +16,9 @@ author:
   location    : "Bergen, Norway"
   employer    : "FAIR, Norwegian School of Economics"
 
-  # Social links — leave blank ("") to hide
-  email       : ""
-  github      : ""
-  googlescholar: ""
-  twitter     : ""
-  linkedin    : ""
-
 # --- Navigation -----------------------------------------------------------------
 # Controls the top nav bar. Each entry maps to a file in _pages/
 navigation:
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /research/
   - title: "Teaching"
