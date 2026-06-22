@@ -10,7 +10,7 @@ baseurl                : ""
 # --- Author / Profile -----------------------------------------------------------
 author:
   name        : "Barnabás Bakucz"
-  avatar      : "/images/profile.jpg"          # add your photo here
+  avatar      : "/images/profile_pic.jpg"          # add your photo here
   bio         : >
     Ph.D. Candidate in Economics.
   location    : "Bergen, Norway"
